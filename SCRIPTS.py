@@ -27,7 +27,7 @@ from utils import *
 # Importamos las variables necesarias
 
 from URLS import *
-from LOG import *
+from env.py import *
 
 
 # Guarda fecha de descarga de csv

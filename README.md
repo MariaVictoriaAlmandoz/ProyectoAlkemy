@@ -25,7 +25,7 @@ Configurar las URL de descarga:
     
 Configurar la conexión con la base de datos: 
 
-    abrir el archivo .env y completar los datos de conexión
+    abrir el archivo env.py y completar los datos de conexión
 
 Ejecutar:
     

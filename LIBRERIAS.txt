@@ -1,0 +1,13 @@
+pip install requests
+            csv
+            pandas 
+            numpy 
+            logging_config
+            os 
+            psycopg2
+            datetime
+            python-decouple
+            psycopg2-binary
+            sqlalchemy
+            config
+            utils
